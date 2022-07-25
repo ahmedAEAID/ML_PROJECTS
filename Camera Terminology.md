@@ -1,7 +1,3 @@
-# ML_PROJECTS
-
-
-
 # Basics - Camera Terminology
 
 ## Filed of view
