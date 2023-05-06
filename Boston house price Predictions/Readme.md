@@ -11,5 +11,5 @@
 ![Models Scores](https://github.com/ahmedAEAID/ML_PROJECTS/blob/main/Boston%20house%20price%20Predictions/Images/Models%20Scores.png)
 ### Residual XGBoost
 ![Residual XGBoost](https://github.com/ahmedAEAID/ML_PROJECTS/blob/main/Boston%20house%20price%20Predictions/Images/Residual%20Xgb.png)
-### Predictions vs Actua
+### Predictions vs Actual
 ![Predictions vs Actua](https://github.com/ahmedAEAID/ML_PROJECTS/blob/main/Boston%20house%20price%20Predictions/Images/Predictions%20vs%20Actual.png)
